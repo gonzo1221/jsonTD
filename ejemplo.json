@@ -12,29 +12,29 @@
 	"triaje": 1,
 	"tipo_cobertura": "Plan 36",
 	"vehiculo": [{
-			"marca": "FIAT",
-			"modelo": "SIENA",
-			"version": "XT 13456",
-			"anio": 1999,
-			"dominio": "AYM358",
-			"chasis": "35424562AB356",
-			"motor": "45235FS465"
+		"marca": "FIAT",
+		"modelo": "SIENA",
+		"version": "XT 13456",
+		"anio": 1999,
+		"dominio": "AYM358",
+		"chasis": "35424562AB356",
+		"motor": "45235FS465"
 	}],
 	"rodaje": [{
-         "cub_rod_marca":"PIRELLI",
-         "cub_rod_medida":"215-60-17",
-         "lla_rod_tipo":"aleacion"
-      },
-      {
-         "cub_rod_marca":"PIRELLI",
-         "cub_rod_medida":"215-60-17",
-         "lla_rod_tipo":"aleacion"
+	         "cub_rod_marca":"PIRELLI",
+	         "cub_rod_medida":"215-60-17",
+	         "lla_rod_tipo":"aleacion"
+	      },
+	      {
+	         "cub_rod_marca":"PIRELLI",
+	         "cub_rod_medida":"215-60-17",
+	         "lla_rod_tipo":"aleacion"
 	}],
 	"auxilio": [{
-			"lla_aux_tipo": "chapa",
-			"lla_aux_cant": 2,
-			"cub_aux_marca": "Firestone",
-			"cub_aux_medida": "220/20/2"
+		"lla_aux_tipo": "chapa",
+		"lla_aux_cant": 2,
+		"cub_aux_marca": "Firestone",
+		"cub_aux_medida": "220/20/2"
 	}],
 	"desgaste": 50,
 	"limite": 150000,
